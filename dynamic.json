@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"contact.jpg",
+		"name":"Sravya",
+		"roll":"17NN1A1238",
+		"place":"guntur",
+		"email":"sravyapasupulati119@gmail.com"
+	},
+	"career":{
+		"info":"interested to seek a job in reputed company to explore my knowledge"
+	},
+    "education":[
+    	{
+    		"sno":"1",
+    		"degree":"B.Tech",
+    		"institute":"Vignan Nirula",
+    		"per":"85%",
+    		"yop":"2021"
+    	},
+    	{
+    		"sno":"2",
+    		"degree":"Intermediate",
+    		"institute":"Sri Chaithanya",
+    		"per":"92%",
+    		"yop":"2017"	
+    	},
+    	{
+    		"sno":"3",
+    		"degree":"s.s.c",
+    		"institute":"Naveena Vidhyanikethan",
+    		"per":"95%",
+    		"yop":"2015"
+    	}
+    ],
+    "languagesknown":[
+    	{
+    		"info":"english"
+    	},
+    	{
+    		"info":"telugu"
+    	},
+    	{
+    		"info":"hindi"
+    	}
+    ]  	
+}
